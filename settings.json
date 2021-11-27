@@ -1,0 +1,14 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "eslint.format.enable": true,
+  "eslint.run": "onType",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "csharp.semanticHighlighting.enabled": true,
+  "csharp.format.enable": false,
+  "workbench.colorTheme": "Atom One Dark"
+}

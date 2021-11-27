@@ -4,3 +4,10 @@
 	name = Joe Brown
 	email = joebrown.4576@gmail.com
     username = joe4576
+[init]
+	defaultBranch = master
+
+[includeIf "gitdir:~/Premier/"]
+  path = ~/.gitconfig-premier
+[pull]
+	rebase = false
