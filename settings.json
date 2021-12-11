@@ -10,5 +10,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "csharp.semanticHighlighting.enabled": true,
   "csharp.format.enable": false,
-  "workbench.colorTheme": "Atom One Dark"
+  "workbench.colorTheme": "Atom One Dark",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": true
 }
