@@ -10,7 +10,7 @@ export ZSH="/Users/joe/.oh-my-zsh"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="robbyrussell"
 
-export PATH=/usr/local/share/dotnet/x64:$PATH
+# export PATH=/usr/local/share/dotnet/x64:$PATH
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -104,6 +104,8 @@ source $ZSH/oh-my-zsh.sh
 
 alias cdbm="cd ~/Premier/brewman7"
 alias cdca="cd ~/Premier/brewman7/BmWebServer/ClientApp"
+alias cdh="cd ~"
+alias cdw="cd ~/Workspace"
 
 # The next line updates PATH for the Google Cloud SDK.
 if [ -f '/Users/joe/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/joe/google-cloud-sdk/path.zsh.inc'; fi
