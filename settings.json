@@ -12,5 +12,7 @@
   "csharp.format.enable": false,
   "workbench.colorTheme": "Atom One Dark",
   "editor.cursorBlinking": "smooth",
-  "editor.cursorSmoothCaretAnimation": true
+  "editor.cursorSmoothCaretAnimation": true,
+  "bracketPairColorizer.depreciation-notice": false,
+  "vetur.experimental.templateInterpolationService": true
 }
