@@ -13,6 +13,7 @@
   "workbench.colorTheme": "Atom One Dark",
   "editor.cursorBlinking": "smooth",
   "editor.cursorSmoothCaretAnimation": true,
-  "bracketPairColorizer.depreciation-notice": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
   "vetur.experimental.templateInterpolationService": true
 }
