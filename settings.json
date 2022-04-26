@@ -8,12 +8,18 @@
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "csharp.semanticHighlighting.enabled": true,
-  "csharp.format.enable": false,
   "workbench.colorTheme": "Atom One Dark",
   "editor.cursorBlinking": "smooth",
   "editor.cursorSmoothCaretAnimation": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
-  "vetur.experimental.templateInterpolationService": true
+  "vetur.experimental.templateInterpolationService": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontSize": 13,
+  "editor.fontWeight": "350",
+  "editor.fontLigatures": "'ss19'",
+  "window.zoomLevel": 1,
+  "workbench.fontAliasing": "antialiased"
 }
