@@ -20,6 +20,8 @@
   "editor.fontSize": 13,
   "editor.fontWeight": "350",
   "editor.fontLigatures": "'ss19'",
+  "workbench.fontAliasing": "antialiased",
   "window.zoomLevel": 1,
-  "workbench.fontAliasing": "antialiased"
+  "debug.javascript.autoAttachFilter": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always"
 }
