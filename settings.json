@@ -13,7 +13,6 @@
   "editor.cursorSmoothCaretAnimation": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
-  "vetur.experimental.templateInterpolationService": true,
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.fontFamily": "Cascadia Code",
@@ -21,7 +20,7 @@
   "editor.fontWeight": "350",
   "editor.fontLigatures": "'ss19'",
   "workbench.fontAliasing": "antialiased",
-  "window.zoomLevel": 1,
   "debug.javascript.autoAttachFilter": "always",
-  "typescript.updateImportsOnFileMove.enabled": "always"
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 1
 }
