@@ -11,6 +11,7 @@ export ZSH="/Users/joe/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 
 # export PATH=/usr/local/share/dotnet/x64:$PATH
+export PATH=~/.npm-global/bin:$PATH
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -112,3 +113,7 @@ if [ -f '/Users/joe/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/joe/google-
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/Users/joe/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/joe/google-cloud-sdk/completion.zsh.inc'; fi
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
